@@ -1,0 +1,50 @@
+.A
+{
+    height: 400px;
+    width: 400px;
+
+}
+.one{
+    height: 400px;
+    width: 800px; 
+}
+body
+{
+    display: block;
+    margin-left: 100px;
+}
+table, td, th {
+    border: 1px solid black;
+  }
+  
+  table {
+    border-collapse: collapse;
+    width: 65%;
+  }
+  
+  th {
+    height: 50px;
+  }
+  p{
+      width: 65%;
+  }
+  form , #navbar{
+    background-color: gray;
+    color: white;
+    width: 65%;
+  }
+
+  #navbar{
+    height: 50%;
+  }
+  button{
+    background-color: black;
+    color: blanchedalmond;
+  }
+
+  a{
+      font-size: large;
+      color: wheat;
+      
+
+  }
